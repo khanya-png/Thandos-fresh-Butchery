@@ -1,40 +1,39 @@
-# Thando's Fresh Produce & Butchery
+# Thando's Fresh Butchery
 
-Welcome to the official website repository for Thando's Fresh Produce & Butchery.
+A simple and clean website for a local butchery business that sells fresh meat daily.
 
-This is a small business website built to showcase fresh fruits, vegetables and quality meat products to customers in the community.
+**Live Website:** https://khanya-png.github.io/Thandos-fresh-Butchery/
 
-### Live Website
-This site is deployed with GitHub Pages. You can view it from the Deployments section.
+## About The Project
+Thando's Fresh Butchery website was created to help customers view our fresh meat products, prices, and place orders online. The goal is to make it easy for the community to access quality meat from local farms.
 
-### Pages Included
-- `index.html` - Home page with business introduction and phone number
-- `about.html` - About the business
-- `services.html` - Products and services offered
-- `contact.html` - Contact information
-- `enquiry.html` - Customer enquiry form
-- `Thandos-fresh-Butchery/` - Main business folder
+## Features
+- Home page with welcome message and business overview
+- About page - our mission, vision, and values
+- Services page - what we offer
+- Menu page - price list for beef, chicken, pork and braai packs
+- Contact page - location and contact details
+- Enquiry page - order form for customers
 
-### Technologies Used
-- HTML5 - 100% (as shown in Languages)
-- CSS for styling and colours
-- GitHub Pages for deployment
+## Built With
+- HTML5
+- CSS3
 
-### Design - Part 3
-Colours used:
-- Green for freshness - #2E8B57
-- Red for butchery - #C0392B
-- White for background - #FFFFFF
+## Pages
+- index.html - Home
+- about.html - About Us
+- services.html - Our Services
+- menu.html - Price List / Menu
+- contact.html - Contact Details
+- enquiry.html - Order / Enquiry Form
 
-The website is simple, clean and mobile-friendly for customers.
+## How to Run
+1. Download or clone the repository
+2. Double-click on `index.html` to open in your browser
+   OR use VS Code Live Server
 
-### How to Run
-1. Click on `index.html`
-2. Or clone the repo: `git clone https://github.com/khanya-png/Thandos-fresh-Butchery.git`
-3. Open `index.html` in your browser.
+## Author
+Khanya - Thando's Fresh Butchery Project 2026
 
-### Author
-khanya-png
-
-### Business Purpose
-To help Thando's Fresh Produce & Butchery get online customers and show daily products and contact details.
+## Contact
+For enquiries, visit the Enquiry page on the website.
