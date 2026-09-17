@@ -1,6 +1,7 @@
-![Thando's Fresh Butchery Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="Thando's Logo" width="150">
+</p>
 
-# Thando's Fresh Butchery Website 
 # Thando's Fresh Butchery
 
 A simple and clean website for a local butchery business that sells fresh meat daily.
